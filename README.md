@@ -12,8 +12,7 @@
 
 ## 👥 Team: NewJeans-5 (뉴진스는5명)
 
-* 
-**Members**: 조준호, 성명준, 이상준, 이용직, 이채연 
+* **Members**: 조준호, 성명준, 이상준, 이용직, 이채연 
 
 
 
@@ -28,7 +27,6 @@ graph LR
     B & C --> D[Ensemble & Reranking<br/>(Top-5)]
     D --> E[LLM Generation<br/>(EXAONE-3.5-7.8B)]
     E --> F[Answer]
-
 ```
 
 1. 
